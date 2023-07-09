@@ -1,0 +1,31 @@
+.bgimg{
+    background-image: url(../blog/16256-126780-f73437862_3xl.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 950px;
+}
+.headerset{
+    padding: 300px;
+    margin-top: 50px;
+   
+}
+.headerset h1{
+    font-family:cursive;
+    transition: 0.7s ease;
+}
+.headerset h1:hover{
+     font-size: 75px;
+     color: black;
+}    
+.post h1{
+    color: black;
+    margin-top: 650px;
+}
+.navbar-nav li a{
+    transition: 0.7s ease;
+} 
+.navbar-nav li a:hover{
+    background-color: grey;
+    transition: 0.7s ease;
+    margin: 18px;
+} 
